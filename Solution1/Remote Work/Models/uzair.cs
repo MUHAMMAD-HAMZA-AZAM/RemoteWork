@@ -7,5 +7,6 @@ namespace Remote_Work.Models
 {
     public class uzair
     {
+        public int UzairId { get; set; }
     }
 }
