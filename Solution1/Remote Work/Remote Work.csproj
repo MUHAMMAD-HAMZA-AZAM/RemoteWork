@@ -135,7 +135,12 @@
     <Compile Include="Migrations\202007152115440_First.designer.cs">
       <DependentUpon>202007152115440_First.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202007152136208_city.cs" />
+    <Compile Include="Migrations\202007152136208_city.designer.cs">
+      <DependentUpon>202007152136208_city.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Cities.cs" />
     <Compile Include="Models\Dummy.cs" />
     <Compile Include="Models\RemoteContext.cs" />
     <Compile Include="Models\uzair.cs" />
@@ -197,6 +202,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202007152115440_First.resx">
       <DependentUpon>202007152115440_First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007152136208_city.resx">
+      <DependentUpon>202007152136208_city.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

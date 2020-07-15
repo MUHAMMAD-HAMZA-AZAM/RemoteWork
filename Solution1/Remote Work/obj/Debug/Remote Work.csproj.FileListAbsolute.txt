@@ -162,3 +162,10 @@ H:\RemoteWork\Solution1\Remote Work\obj\Debug\Remote Work.dll
 H:\RemoteWork\Solution1\Remote Work\obj\Debug\Remote Work.pdb
 H:\RemoteWork\Solution1\Remote Work\obj\Debug\Remote_Work.Migrations.First.resources
 H:\RemoteWork\Solution1\Remote Work\obj\Debug\Remote Work.csproj.GenerateResource.cache
+E:\OOP C#\Hamza\Solution1\Remote Work\bin\EntityFramework.dll
+E:\OOP C#\Hamza\Solution1\Remote Work\bin\EntityFramework.SqlServer.dll
+E:\OOP C#\Hamza\Solution1\Remote Work\bin\EntityFramework.xml
+E:\OOP C#\Hamza\Solution1\Remote Work\bin\EntityFramework.SqlServer.xml
+E:\OOP C#\Hamza\Solution1\Remote Work\obj\Debug\Remote_Work.Migrations.First.resources
+E:\OOP C#\Hamza\Solution1\Remote Work\obj\Debug\Remote Work.csproj.GenerateResource.cache
+E:\OOP C#\Hamza\Solution1\Remote Work\obj\Debug\Remote_Work.Migrations.city.resources
