@@ -9,6 +9,6 @@ namespace Remote_Work.Models
     {
         public int Id { get; set; }
 
-        public string AddressHomeHamzaNew { get; set; }
+        public string Address { get; set; }
     }
 }
