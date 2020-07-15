@@ -8,5 +8,7 @@ namespace Remote_Work.Models
     public class Dummy
     {
         public int Id { get; set; }
+
+        public string Address { get; set; }
     }
 }
