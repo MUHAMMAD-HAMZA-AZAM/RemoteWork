@@ -15,6 +15,7 @@ namespace Remote_Work.Models
 
        public DbSet<Dummy> Dummies { get; set; }
         public DbSet<uzair> Uzairs { get; set; }
+        public DbSet<Cities> Cities { get; set; }
 
 
     }
